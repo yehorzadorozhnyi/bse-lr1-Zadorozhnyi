@@ -10,7 +10,7 @@
 
 ## Технології
 
-- Мова програмування: Python 3.12
+- Мова програмування: Javascript
 
 - IDE: Visual Studio Code 1.110
 
